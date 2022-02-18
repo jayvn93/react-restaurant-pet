@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-restaurant-pet/static/css/main.e65b3169.css",
+    "main.js": "/react-restaurant-pet/static/js/main.e5920fd4.js",
+    "static/js/787.025d7287.chunk.js": "/react-restaurant-pet/static/js/787.025d7287.chunk.js",
+    "static/media/remixicon.svg?t=1590207869815": "/react-restaurant-pet/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/react-restaurant-pet/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/react-restaurant-pet/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/pizza1.png": "/react-restaurant-pet/static/media/pizza1.654c0ad40f35c0160d07.png",
+    "static/media/slider1.png": "/react-restaurant-pet/static/media/slider1.d7139f2a9849745cc060.png",
+    "static/media/pasta.png": "/react-restaurant-pet/static/media/pasta.0710b65fc7c4d933ff30.png",
+    "static/media/dessert2.png": "/react-restaurant-pet/static/media/dessert2.6d376909141e9dd5fbc4.png",
+    "static/media/slider2.png": "/react-restaurant-pet/static/media/slider2.bd92752adc1ee0195613.png",
+    "static/media/coffe2.png": "/react-restaurant-pet/static/media/coffe2.19b724f31efff2d5baa7.png",
+    "static/media/dessert02.png": "/react-restaurant-pet/static/media/dessert02.fb48b7dbb74982bd03d9.png",
+    "static/media/chicken4.png": "/react-restaurant-pet/static/media/chicken4.c4acdf41649fbd6163c8.png",
+    "static/media/chicken3.png": "/react-restaurant-pet/static/media/chicken3.bbc7b7ed3c8683f1a138.png",
+    "static/media/dessert3.png": "/react-restaurant-pet/static/media/dessert3.5221424963bbaabfe819.png",
+    "static/media/remixicon.woff?t=1590207869815": "/react-restaurant-pet/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/slider03.png": "/react-restaurant-pet/static/media/slider03.17713c88c15d3f581d08.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/react-restaurant-pet/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/app.png": "/react-restaurant-pet/static/media/app.4e53622c64f47e64322f.png",
+    "static/media/review1.png": "/react-restaurant-pet/static/media/review1.5700a29883f432498c97.png",
+    "static/media/slick.svg": "/react-restaurant-pet/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-restaurant-pet/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-restaurant-pet/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-restaurant-pet/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-restaurant-pet/index.html",
+    "main.e65b3169.css.map": "/react-restaurant-pet/static/css/main.e65b3169.css.map",
+    "main.e5920fd4.js.map": "/react-restaurant-pet/static/js/main.e5920fd4.js.map",
+    "787.025d7287.chunk.js.map": "/react-restaurant-pet/static/js/787.025d7287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65b3169.css",
+    "static/js/main.e5920fd4.js"
+  ]
+}

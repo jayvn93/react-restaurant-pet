@@ -1,6 +1,7 @@
 {
   "name": "react-restaurent-app",
   "version": "0.1.0",
+  "homepage": "https://jayvn93.github.io/react-restaurant-pet/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
